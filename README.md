@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">A passionate developer from Argentina.</h3>
+<h3 align="center">A passionate developer from Argentina!</h3>
 
+- 👷🏻 Managing servers at YPF.
 - 🌱 Currently, I'm learning **AI & Machine Learning**.
 - 📚 Reading books is something I love!
 - 👻 I enjoy most horror movies, even the cheesy ones.
